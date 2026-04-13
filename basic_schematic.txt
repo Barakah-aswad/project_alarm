@@ -1,2 +1,5 @@
 JALUR SCHEMATIC
 library schematic
+PSU
+PROSESOR
+GSM/GPRS
